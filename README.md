@@ -5,7 +5,7 @@ Kill any Tmux Sessions:
 
 Clone the repo to ~/.config/tmux:
 
-`git clone https://github.com/jhicks-r7/tmuxconf`
+`git clone https://github.com/jhicks-r7/tmuxconf ~/.config/tmux`
 
 Clone the Tmux Plugin Manager (TPM)
 
